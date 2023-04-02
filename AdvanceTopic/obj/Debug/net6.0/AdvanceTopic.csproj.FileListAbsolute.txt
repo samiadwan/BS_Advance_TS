@@ -1,0 +1,15 @@
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\bin\Debug\net6.0\AdvanceTopic.exe
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\bin\Debug\net6.0\AdvanceTopic.deps.json
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\bin\Debug\net6.0\AdvanceTopic.runtimeconfig.json
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\bin\Debug\net6.0\AdvanceTopic.dll
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\bin\Debug\net6.0\AdvanceTopic.pdb
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\obj\Debug\net6.0\AdvanceTopic.csproj.AssemblyReference.cache
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\obj\Debug\net6.0\AdvanceTopic.GeneratedMSBuildEditorConfig.editorconfig
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\obj\Debug\net6.0\AdvanceTopic.AssemblyInfoInputs.cache
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\obj\Debug\net6.0\AdvanceTopic.AssemblyInfo.cs
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\obj\Debug\net6.0\AdvanceTopic.csproj.CoreCompileInputs.cache
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\obj\Debug\net6.0\AdvanceTopic.dll
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\obj\Debug\net6.0\refint\AdvanceTopic.dll
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\obj\Debug\net6.0\AdvanceTopic.pdb
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\obj\Debug\net6.0\AdvanceTopic.genruntimeconfig.cache
+E:\BS23_tarinee\OOP\AdvanceTopic\AdvanceTopic\obj\Debug\net6.0\ref\AdvanceTopic.dll
